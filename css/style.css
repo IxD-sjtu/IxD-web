@@ -146,8 +146,9 @@ h1,h2,h3,h4,h5,h6{
     line-height: 20px;
 }
 .navbar-nav {
-    float: right;
-	margin-top: 1.45em;
+	margin-top: 1.25em;
+	position: absolute;
+	right: 0;
 }
 .header-left{
 	float:right;
@@ -221,7 +222,7 @@ ul.nav.navbar-nav li.active a {
     background:rgba(0, 0, 0, 0.44);
     padding: 2em 2em;
     position: absolute;
-    top: -170px;
+    top: -235px;
 }
 .agile-top {
     position: relative;
@@ -484,6 +485,7 @@ text-decoration:none;
     padding: 6px 0px 7px;
     outline: none;
     border-left: none;
+    transform: translate(0,1px);
 }
 .contact1-left form {
     margin-bottom: 50px;
@@ -839,7 +841,7 @@ p.footer-grid a:hover{
 }
 .test {
     padding: 6em 0;
-	background: url(../images/2.jpg) center fixed;
+	background: url(../images/neobay4.jpg) center fixed;
     width: 100%;
     min-height: 402px;
     display: block;
