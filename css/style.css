@@ -1093,7 +1093,28 @@ h2.tit{
 	display:block;
 }
 .contact-grids{
-	margin:5em 0 0;
+	margin:2em 0 0;
+	padding-bottom: 40px;
+	border-bottom: 1px rgba(0,0,0,0.3) solid;
+}
+.contact-grids2{
+	margin:2em 0 0;
+	padding-bottom: 20px;
+	border-bottom: 1px rgba(0,0,0,0.3) solid;
+}
+.contact-grids2 a{
+	display: block;
+	text-decoration: none;
+	color: #999;
+	margin-bottom: 6px;
+	cursor: pointer;
+}
+.contact-grids2 a:hover{
+	color: #f99104;
+}
+.contact-grids2 p{
+	color: #999;
+	margin-bottom: 6px;
 }
 .contact-form1 h4,.contact-me h4{
 	font-size:1em;
