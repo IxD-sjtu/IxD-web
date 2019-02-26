@@ -1109,17 +1109,7 @@ h2.tit{
 	margin-bottom: 6px;
 	cursor: pointer;
 }
-.contact-grids2n a{
-	display: block;
-	text-decoration: none;
-	color: #999;
-	margin-bottom: 6px;
-	cursor: pointer;
-}
 .contact-grids2 a:hover{
-	color: #f99104;
-}
-.contact-grids2n a:hover{
 	color: #f99104;
 }
 .contact-grids2 p{
